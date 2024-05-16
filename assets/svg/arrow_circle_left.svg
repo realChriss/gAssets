@@ -1,0 +1,8 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+        <!-- Kreis -->
+        <circle cx="100" cy="100" r="90" stroke="black" stroke-width="15" fill="none"/>
+        
+        <!-- Pfeil -->
+        <path d="M90 70 L50 100 L90 130" fill="none" stroke="black" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+        <line x1="50" y1="100" x2="140" y2="100" stroke="black" stroke-width="15" stroke-linecap="round"/>
+    </svg>
